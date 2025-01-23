@@ -1,4 +1,8 @@
-\`\`\`css
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
 /* Responsive typography */
 @media (max-width: 640px) {
   html {
@@ -29,5 +33,5 @@
     min-width: 44px;
   }
 }
-\`\`\`
+
 
